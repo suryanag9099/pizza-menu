@@ -6,7 +6,7 @@ Fast React Pizza Co. is a simple React application that showcases a restaurant m
 
 ## Features
 
-- **Dynamic Menu Display**: Lists all available pizzas with images, descriptions, and prices.
+- *Dynamic Menu Display**: Lists all available pizzas with images, descriptions, and prices.
 - **Conditional Rendering**: Shows a message when the menu is empty.
 - **Operational Hours Display**: Indicates whether the restaurant is open or closed based on the current time.
 - **Sold Out State Handling**: Grays out sold-out pizzas.
@@ -41,8 +41,7 @@ Fast React Pizza Co. is a simple React application that showcases a restaurant m
 ## Components Breakdown
 
 ### `App.js`
-
-- Renders the main layout and includes `Header`, `Menu`, and `Footer` components.
+Renders the main layout and includes `Header`, `Menu`, and `Footer` components.
 
 ### `Header.js`
 
@@ -76,6 +75,5 @@ Fast React Pizza Co. is a simple React application that showcases a restaurant m
 - Add animations for better UI/UX.
 
 ## License
-
 This project is open-source and available under the MIT License.
 

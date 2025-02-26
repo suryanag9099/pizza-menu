@@ -7,7 +7,7 @@ Fast React Pizza Co. is a simple React application that showcases a restaurant m
 ## Features
 
 - *Dynamic Menu Display**: Lists all available pizzas with images, descriptions, and prices.
-- **Conditional Rendering**: Shows a message when the menu is empty.
+- *Conditional Rendering**: Shows a message when the menu is empty.
 - **Operational Hours Display**: Indicates whether the restaurant is open or closed based on the current time.
 - **Sold Out State Handling**: Grays out sold-out pizzas.
 - **Styled Components**: Uses CSS for a polished UI.
